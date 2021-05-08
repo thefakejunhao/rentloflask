@@ -11,7 +11,7 @@ cryptography==2.1.4
 dill==0.2.7.1
 django==1.11.7
 enum-compat==0.0.2
-eventlet==0.21.0
+eventlet==0.31.0
 firebase-admin==2.5.0
 Flask==0.12.2
 Flask-Mail==0.9.1
