@@ -49,7 +49,7 @@ PyJWT==1.5.3
 pyreadline==2.1
 Pyrebase==3.0.27
 python-engineio==2.0.1
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-socketio==1.8.4
 pytz==2017.3
 requests==2.11.1
